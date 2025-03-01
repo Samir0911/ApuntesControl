@@ -55,8 +55,9 @@ En las impresoras, el control de movimiento es esencial para:
 A continuación, se sugieren espacios para incluir figuras que complementen los temas tratados:
 
 1. **Figura 1**: Diagrama de una impresora mostrando los componentes controlados por sistemas de movimiento.
-2. **Figura 2**: Imagen comparativa entre una máquina antigua con múltiples engranajes y una moderna con control de movimiento avanzado.
-3. **Figura 3**: Esquema de una máquina dobladora que ilustre cómo el control de movimiento influye en el proceso de doblado.
+   ([Fuente](esquema1.png))
+3. **Figura 2**: Imagen comparativa entre una máquina antigua con múltiples engranajes y una moderna con control de movimiento avanzado.
+4. **Figura 3**: Esquema de una máquina dobladora que ilustre cómo el control de movimiento influye en el proceso de doblado.
 
 Estas figuras ayudarán a visualizar los conceptos y la evolución en el control de movimiento dentro de diversas aplicaciones industriales.
 
