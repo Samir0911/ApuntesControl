@@ -1,3 +1,6 @@
+### Samir Romero - 87382
+### Miguel Rueda -
+
 # Clase # 1
 
 ---
@@ -12,9 +15,9 @@ El **control de movimiento**, también conocido como "robótica", se refiere al 
 
 El control de movimiento se utiliza en una variedad de aplicaciones industriales, incluyendo:
 
-- **Impresoras**: Para posicionar con precisión el cabezal de impresión y el papel.
-- **Cortadoras**: Para dirigir herramientas de corte en trayectorias específicas.
-- **Máquinas dobladoras**: Para controlar el ángulo y la posición en operaciones de doblado de materiales.
+- **Impresoras**: Para posicionar con precisión el cabezal de impresión y el papel. (ver Figura 1)
+- **Cortadoras**: Para dirigir herramientas de corte en trayectorias específicas. (ver Figura 2)
+- **Máquinas dobladoras**: Para controlar el ángulo y la posición en operaciones de doblado de materiales. (ver Figura 3)
 
 ## Tipos de Movimientos en el Control de Movimiento
 
@@ -61,6 +64,9 @@ A continuación, se sugieren espacios para incluir figuras que complementen los 
 
 Estas figuras ayudarán a visualizar los conceptos y la evolución en el control de movimiento dentro de diversas aplicaciones industriales.
 
+---
+
+# Clase #2
 
 ## Control de Movimiento
 El control de movimiento es un aspecto crucial en ingeniería, especialmente en sistemas que requieren mantener condiciones específicas, como temperatura, presión o velocidad.
